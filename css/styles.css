@@ -295,11 +295,13 @@ font-weight: 500;
 .our-team-list {
    display: flex;
    gap: 24px;
+   flex-basis: calc((100% - 72px) / 4);
 }
 
 
 .our-portfolio {
    background-color:#FFFFFF;
+   padding-top: 120px;
    padding-bottom: 120px;
 }
 
@@ -312,7 +314,6 @@ font-weight: 500;
       letter-spacing: 0.02em;
       text-transform: capitalize;
       color:#2e2f42;
-      padding-top: 120px;
       margin-bottom: 72px;
 }
 
