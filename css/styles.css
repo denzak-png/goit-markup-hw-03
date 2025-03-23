@@ -323,7 +323,7 @@ flex-basis:calc((100% - 48px) / 3);
 
 
 .border-text {
-   border: 0px 1px 1px 1px solid#E7E9FC;
+   border: 1px solid#E7E9FC;
 }
 
 
