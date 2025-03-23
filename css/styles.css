@@ -203,12 +203,17 @@ a {
 }
 
 
+.advantages {
+   padding-top: 120px;
+   padding-bottom: 120px;
+}
+
+
 
 .advantages-list {
    display: flex;
    gap: 24px;
-   padding-top: 120px;
-   padding-bottom:120px;
+   
 }
 
 
@@ -238,6 +243,8 @@ a {
 
 .our-team {
    background-color: #f4f4fd;
+   padding-top: 120px;
+   padding-bottom: 120px;
 }
 
 
@@ -250,7 +257,6 @@ text-align: center;
    text-transform: capitalize;
    color: #2e2f42;
    margin-bottom: 72px;
-   padding-top: 120px;
 }
 
 .our-team-item {
@@ -289,7 +295,6 @@ font-weight: 500;
 .our-team-list {
    display: flex;
    gap: 24px;
-   padding-bottom: 120px;
 }
 
 
