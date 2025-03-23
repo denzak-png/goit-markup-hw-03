@@ -298,6 +298,11 @@ font-weight: 500;
    flex-basis: calc((100% - 72px) / 4);
 }
 
+.our-team-value {
+   padding-top: 32px;
+   padding-bottom: 32px;
+}
+
 
 .our-portfolio {
    background-color:#FFFFFF;
@@ -314,7 +319,7 @@ font-weight: 500;
       letter-spacing: 0.02em;
       text-transform: capitalize;
       color:#2e2f42;
-      margin-bottom: 72px;
+      margin-bottom: 8px;
 }
 
 
