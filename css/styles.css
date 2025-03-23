@@ -190,6 +190,7 @@ a {
       border: none;
       margin-left: auto;
       margin-right: auto;
+      display: block
 
 }
 
@@ -206,7 +207,7 @@ a {
    display: flex;
    gap: 24px;
    padding-top: 120px;
-   padding-bottom: 98px;
+   padding-bottom:120px;
 }
 
 
